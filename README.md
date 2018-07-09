@@ -1,11 +1,9 @@
-<h1 align="center">Auto PY to EXE</h1>
-<p align="center">A .py to .exe converter using a simple graphical interface built using <a href="https://github.com/ChrisKnott/Eel">Eel</a> and <a href="http://www.pyinstaller.org/">pyinstaller</a> in Python.</p>
+# Auto PY to EXE
+A .py to .exe converter using a simple graphical interface built using [Eel](https://github.com/ChrisKnott/Eel) and [pyinstaller](http://www.pyinstaller.org/) in Python.</p>
 
-<div align="center">
-    <img src="https://i.imgur.com/EuUlayC.png" alt="Empty interface">
-</div>
+![Empty interface](https://i.imgur.com/EuUlayC.png)
 
-<p align="center">This is the PyPI package of <a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></p>
+This is the PyPI version of [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 
 ## Installation
 
@@ -36,7 +34,7 @@ You can also pass a file as an argument to pre-fill the script location field:
 $ auto-py-to-exe my_script.py
 ```
 
-After you have the GUI displayed simply select your options and click convert:
+### Using the GUI
 1. Select your script location (paste in or use a file explorer)
     - Outline will become blue when file exists
 2. Select other options and add things like an icon or other files

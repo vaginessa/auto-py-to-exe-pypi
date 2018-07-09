@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='auto-py-to-exe',
-    version='1.2.0',
+    version='1.2.1',
     url='https://github.com/brentvollebregt/auto-py-to-exe',
     license='MIT',
     author='Brent Vollebregt',
