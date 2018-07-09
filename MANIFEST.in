@@ -1,9 +1,9 @@
 include README.md
 include LICENSE
-include auto-py-to-exe/web/img/chevron-square-up.svg
-include auto-py-to-exe/web/img/remove.svg
-include auto-py-to-exe/web/favicon.ico
-include auto-py-to-exe/web/main.html
-include auto-py-to-exe/web/Nunito-Light.ttf
-include auto-py-to-exe/web/script.js
-include auto-py-to-exe/web/styles.css
+include auto_py_to_exe/web/img/chevron-square-up.svg
+include auto_py_to_exe/web/img/remove.svg
+include auto_py_to_exe/web/favicon.ico
+include auto_py_to_exe/web/main.html
+include auto_py_to_exe/web/Nunito-Light.ttf
+include auto_py_to_exe/web/script.js
+include auto_py_to_exe/web/styles.css

@@ -11,7 +11,7 @@ setup(
     description='Converts .py to .exe using a simple graphical interface.',
     long_description=open('README.md', encoding='utf-8').readlines()[1],
     keywords=['gui', 'executable'],
-    packages=['auto-py-to-exe'],
+    packages=['auto_py_to_exe'],
     include_package_data=True,
     install_requires=['Eel>=0.9.9', 'pyinstaller'],
     python_requires='>=2.7,!=3.7.*',
