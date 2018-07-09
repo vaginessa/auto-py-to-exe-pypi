@@ -5,6 +5,8 @@
     <img src="https://i.imgur.com/EuUlayC.png" alt="Empty interface">
 </div>
 
+<p align="center">This is the PyPI package of <a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></p>
+
 ## Installation
 
 ### Prerequisites
@@ -16,10 +18,10 @@
 $ pip install auto-py-to-exe
 ```
 
-### Via [GitHub](https://github.com/brentvollebregt/auto-py-to-exe)
+### Via [GitHub](https://github.com/brentvollebregt/auto-py-to-exe-pypi)
 ```
-$ git clone https://github.com/brentvollebregt/auto-py-to-exe.git
-$ cd auto-py-to-exe
+$ git clone https://github.com/brentvollebregt/auto-py-to-exe-pypi.git
+$ cd auto-py-to-exe-pypi
 $ ./setup.py install
 ```
 
@@ -41,10 +43,17 @@ After you have the GUI displayed simply select your options and click convert:
 3. Click the big blue button at the bottom to convert
 4. Find your converted files in /output when completed
 
+## Issues
+Please report any issues to [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) as this package mimics the original repo with some additions to make it available on PyPI.
+
+If there are issues with the changes made to the original repo, they can be reported here.
+
 ## Video
-If you need something visual to help you get started, [I made a video for the original release of this project](https://youtu.be/OZSZHmWSOeM), some things may be different but the same concepts still apply.
+If you need something visual to help you get started, [I made a video for the original release of this project](https://youtu.be/OZSZHmWSOeM?t=1m30s), some things may be different but the same concepts still apply.
 
 ## Screenshots
 ![Empty interface](https://i.imgur.com/dd0LC2n.png)
+
 ![Filled out](https://i.imgur.com/f3TEnZI.png)
+
 ![Converting](https://i.imgur.com/MjdONcC.png)
