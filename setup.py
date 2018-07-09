@@ -3,13 +3,14 @@ from setuptools import setup
 
 setup(
     name='auto-py-to-exe',
-    version='1.2.1',
+    version='1.2.0',
     url='https://github.com/brentvollebregt/auto-py-to-exe',
     license='MIT',
     author='Brent Vollebregt',
     author_email='brent@nitratine.net',
     description='Converts .py to .exe using a simple graphical interface.',
-    long_description=open('README.md', encoding='utf-8').readlines()[1],
+    long_description=''.join(open('README.md', encoding='utf-8').readlines()),
+    long_description_content_type='text/markdown',
     keywords=['gui', 'executable'],
     packages=['auto_py_to_exe'],
     include_package_data=True,

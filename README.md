@@ -1,9 +1,11 @@
-# Auto PY to EXE
-A .py to .exe converter using a simple graphical interface built using [Eel](https://github.com/ChrisKnott/Eel) and [pyinstaller](http://www.pyinstaller.org/) in Python.</p>
+<h1 align="center">Auto PY to EXE</h1>
+<p align="center">A .py to .exe converter using a simple graphical interface built using <a href="https://github.com/ChrisKnott/Eel">Eel</a> and <a href="http://www.pyinstaller.org/">pyinstaller</a> in Python.</p>
 
-![Empty interface](https://i.imgur.com/EuUlayC.png)
+<p align="center">
+    <img src="https://i.imgur.com/EuUlayC.png" alt="Empty interface">
+</p>
 
-This is the PyPI version of [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+<p align="center">This is the PyPI package of <a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></p>
 
 ## Installation
 
@@ -44,7 +46,7 @@ $ auto-py-to-exe my_script.py
 ## Issues
 Please report any issues to [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) as this package mimics the original repo with some additions to make it available on PyPI.
 
-If there are issues with the changes made to the original repo, they can be reported here.
+If there are issues with the changes made to the original repo, they can be reported on [auto-py-to-exe-pypi's GitHub page](https://github.com/brentvollebregt/auto-py-to-exe-pypi).
 
 ## Video
 If you need something visual to help you get started, [I made a video for the original release of this project](https://youtu.be/OZSZHmWSOeM?t=1m30s), some things may be different but the same concepts still apply.
