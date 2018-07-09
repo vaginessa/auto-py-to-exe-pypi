@@ -7,6 +7,12 @@
 
 <p align="center">This is the PyPI package of <a href="https://github.com/brentvollebregt/auto-py-to-exe">auto-py-to-exe</a></p>
 
+<p align="center">
+    <img src="https://img.shields.io/pypi/v/auto-py-to-exe.svg" alt="PyPI Version">
+    <img src="https://img.shields.io/pypi/pyversions/auto-py-to-exe.svg" alt="PyPI Supported Versions">
+    <img src="https://img.shields.io/pypi/l/auto-py-to-exe.svg" alt="License">
+</p>
+
 ## Installation
 
 ### Prerequisites
