@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='auto-py-to-exe',
-    version='1.2.0',
+    version='1.3.0',
     url='https://github.com/brentvollebregt/auto-py-to-exe',
     license='MIT',
     author='Brent Vollebregt',
@@ -26,6 +26,8 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Operating System :: Microsoft :: Windows',
+        'Operating System :: POSIX :: Linux',
     ],
     entry_points={
         'console_scripts': [
